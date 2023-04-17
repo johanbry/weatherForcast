@@ -1,5 +1,5 @@
 # Weather forcast
-> This is a pair programming project done by me and [Johan Brynielsson](https://github.com/johanbry). The purpose of this project was to practice Vanilla Typescript outside original school projects. We are using OpenWeatherApi to display current and 5-days forecast weather and their Geocoding API to search on cities around the world. 
+> This is a pair programming project done by me and [Therese Lindén](https://github.com/thereselinden). The purpose of this project was to practice Typescript outside original school projects. We are using OpenWeatherApi to display current and 5-days forecast weather and their Geocoding API to search on cities around the world. 
 
 
 > In this app you will be asked to share your location to see weather at your current position. If declined, fallback coordinates are Stockholm. Use the input field to search on cities around the world, after 3 characthers an autocomplete list will be shown. Your input string will be bold in the autocomplete list. Searched city will show its current time using UTC-time. 
